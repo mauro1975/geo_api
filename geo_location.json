@@ -1,8 +1,4 @@
 [
-{"type":"header","version":"4.9.5deb2","comment":"Export to JSON plugin for PHPMyAdmin"},
-{"type":"database","name":"database_crm"},
-{"type":"table","name":"geo_location","database":"database_crm","data":
-[
 {"id":"1","comune":"Agliè","provincia":"TO","regione":"Piemonte","latitude":"45.36343304","longitude":"7.7686"},
 {"id":"2","comune":"Airasca","provincia":"TO","regione":"Piemonte","latitude":"44.91688598","longitude":"7.48443104"},
 {"id":"3","comune":"Ala di Stura","provincia":"TO","regione":"Piemonte","latitude":"45.31511014","longitude":"7.30434392"},
@@ -7995,5 +7991,5 @@
 {"id":"7990","comune":"Reggio Calabria","provincia":"RC","regione":"Calabria","latitude":"38.0980665","longitude":"15.5316016,11"},
 {"id":"7991","comune":"Padua","provincia":"PD","regione":"Veneto","latitude":"45.40692987","longitude":"11.87608719"}
 ]
-}
-]
+
+
