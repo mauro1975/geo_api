@@ -1,8 +1,4 @@
 [
-{"type":"header","version":"4.9.5deb2","comment":"Export to JSON plugin for PHPMyAdmin"},
-{"type":"database","name":"database_crm"},
-{"type":"table","name":"geo_location2","database":"database_crm","data":
-[
 {"id":"1","provincia":"TO","regione":"Piemonte"},
 {"id":"235","provincia":"TN","regione":"Trentino-Alto Adige"},
 {"id":"317","provincia":"VC","regione":"Piemonte"},
@@ -110,5 +106,4 @@
 {"id":"7862","provincia":"BT","regione":"Puglia"},
 {"id":"7872","provincia":"SU","regione":"Sardegna"}
 ]
-}
-]
+
